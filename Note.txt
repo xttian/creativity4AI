@@ -1,0 +1,17 @@
+2017 to 2023.xlsx are the processed data based on ICLR Open Reviews.
+
+PyCode is based on Python.
+- assets: The final decisions of the collected papers.
+- count.py and consistency.py: Count the number of papers for each year and each subtype in Table-1.
+- correlation.py and cohend.py: Compute the corresponding values in Figure-2.
+- the folder 'figure' and consistency_result.py: Compute the corresponding values in Table-2.
+- select_data: Select some specific data.
+
+RCode-1 is based on R.
+- mediation.R: Mediation analysis in Figure-2.
+
+RCode-2 is based on R
+- OriginData.xlsx is the origin data from the survey research.
+- h_data is the scores on the eight hypotheses.
+- alpha.R is to compute the Cronbach;s Alpha.
+- pheatmap.R is the hierarchical clustering and visualization to explore the review type.
