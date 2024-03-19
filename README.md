@@ -1,4 +1,4 @@
 # creativity4AI
-The pre-processed data and results for the research on creativity in AI academic paper evaluation.
+The pre-processed data, code, and results for the research on creativity in AI academic paper evaluation are updated.
 
-All data and code will be provided here after the paper is accepted.
+The original data will be provided here after the paper is accepted.
